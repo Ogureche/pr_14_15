@@ -1,16 +1,4 @@
-# pr_14_15
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Практическая работа №14-15 Михальков Юрий Виленович ЭФБО-02-22
+![image](https://github.com/user-attachments/assets/5d3ef98b-a5d7-44ed-ae85-de046a33d2f3)
+![image](https://github.com/user-attachments/assets/b866ab28-f86f-453b-a5a0-d16961bf7fca)
+![image](https://github.com/user-attachments/assets/ce353ead-61a5-4962-9d77-9995a1b44007)
